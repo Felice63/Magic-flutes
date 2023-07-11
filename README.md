@@ -1,2 +1,2 @@
 # Magic-flutes
-[Demo]()
+[Demo](https://felice63.github.io/Magic-flutes/)
